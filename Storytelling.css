@@ -1,12 +1,14 @@
 .top-section{ 
 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-color:blue;
-text-align:center}
+color:white;
+text-align:center;
+background-image:url("https://www.elecspo.com/static/uploads/13/2018/11/worldoflightcutscenes-1.png"); 
+}
 
 
 .header-section{
-background-color:brown;
-font-family:Arial, Helvetica, sans-serif;
+background-image:url("https://cdn.staticneo.com/ca/resident_evil_darkside_chronicles_conceptart_9xm3S.jpg");
+font-family:'Courier New', Courier, monospace;
 color:white; 
 text-align:center;
 margin:39px;
@@ -14,22 +16,30 @@ padding:10px;
 content:100px}
 
 .image-section{
-background-color: skyblue;
 text-align:center}
 
 .List-of-favorite-books{
     background-color: royalblue;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Courier New', Courier, monospace;
     color: white;
     font-size: 30px;
 padding: 2px;
 text-align:center}
 
 .links{
-    background-color: skyblue;
 text-align:center;
 font-size: 30px;
-font-family:Verdana, Geneva, Tahoma, sans-serif;}
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-color:black;}
+
+.kirby{
+text-align:center;
+background-size: 5px;
+background-color: black;
+}
 
 body{
-background-color: skyblue;
+background-image: url("https://i.pinimg.com/originals/f4/2d/a9/f42da9167d1a65108ecb94cff3c73130.jpg");
+background-repeat:no-repeat;
+background-size: 1600px;
+background-color: black;
