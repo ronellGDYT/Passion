@@ -38,6 +38,12 @@ background-size: 5px;
 background-color: black;
 }
 
+.form{
+text-align: center;
+font-size: 20px;
+background-color: royalblue;
+}
+
 body{
 background-image: url("https://i.pinimg.com/originals/f4/2d/a9/f42da9167d1a65108ecb94cff3c73130.jpg");
 background-repeat:no-repeat;
